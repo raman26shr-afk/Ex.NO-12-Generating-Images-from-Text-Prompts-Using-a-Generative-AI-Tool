@@ -135,6 +135,9 @@ Lighting
 Style
 Level of detail
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/dacb26e5-cd9a-41c3-aab7-37a85147239f" />
+
+
 # OUTPUT
 
 A set of AI-generated images was produced from a written text prompt. The prompt was refined by adding details such as style, lighting, environment, and camera angle. Different style keywords were also tested, and a suitable final image was selected and saved for use in the laboratory record.
