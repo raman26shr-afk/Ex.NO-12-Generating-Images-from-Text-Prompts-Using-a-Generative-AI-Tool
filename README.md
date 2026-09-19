@@ -1,37 +1,144 @@
 # Ex.NO-12-Generating-Images-from-Text-Prompts-Using-a-Generative-AI-Tool
-## AIM
-To understand how text-to-image generative AI works, and to generate and refine sample images from text prompts using a free AI image-generation tool.
-## WHAT IS TEXT-TO-IMAGE GENERATIVE AI?
-Text-to-image generative AI tools convert a written description (a “prompt”) into a brand-new image. The AI has learned patterns from millions of image-caption pairs, so it can combine ideas from the prompt — subject, style, mood, lighting — into an original picture that did not exist before. The quality of the result depends heavily on how clearly and specifically the prompt is written.
-TOOLS REQUIRED
-•	A free text-to-image AI tool - Bing Image Creator / Microsoft Designer, Adobe Firefly, Canva AI, or DALL·E inside ChatGPT
-•	Web browser
-•	A Microsoft or Google account, to sign in to the chosen tool
-## PROCEDURE
-## Step 1: Understanding Text-to-Image Generative AI
-Before generating an image, understand that the AI is not searching for an existing picture — it is creating a new one pixel by pixel based on patterns it learned during training, guided entirely by the words in the prompt.
-## Step 2: Choosing an Image-Generation Tool
-Open a free text-to-image tool such as Bing Image Creator, Adobe Firefly, or Canva AI in a web browser, and sign in with a Microsoft or Google account if required.
-## Step 3: Writing a Simple First Prompt
-Type a short, clear description of the image to generate, for example:
-“A futuristic classroom with students using AI robots, digital art style.”
-## Step 4: Generating and Reviewing the First Set of Images
-Click “Generate” and wait a few seconds while the tool produces a set of image options (usually 2 to 4). Review each option to see how the AI interpreted the prompt.
-## Step 5: Refining the Prompt for a Better Result
-Add more descriptive detail to the prompt — style, lighting, colour mood, or camera angle — and regenerate, for example changing “digital art style” to “vibrant digital art, warm lighting, wide angle view,” and compare the new results to the first set.
-## Step 6: Comparing Different Style Keywords
-Keep the main subject the same but try different style keywords one at a time, such as “oil painting,” “cartoon style,” and “photorealistic,” to observe how much the output changes purely based on the style word used.
-## Step 7: Saving the Final Image
-Once satisfied with a generated image, click the download/save option on that image to store it locally for use in the report or presentation.
-## Step 8: Noting Ethical Considerations
-Record a short note on responsible use — avoid generating images of real identifiable people without consent, respect copyright when using outputs commercially, and always disclose when an image was AI-generated.
-## SAMPLE OUTPUT SCREEN
-The screen below shows a sample text-to-image generator, with the prompt entered and four generated results ready to compare and save (shown here as placeholder thumbnails).
-<img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/78871ae6-6967-46e3-bf4e-ce8c2fc79581" />
-## OUTPUT
-A set of AI-generated images produced from a written prompt, refined across two to three prompt iterations, with the final chosen image saved for use in the report.
-## RESULT
-Thus, text-to-image generative AI was successfully explored by writing, testing, and refining prompts, and a final AI-generated image was produced and saved.
-## CONCLUSION
-In conclusion, text-to-image generative AI shows how descriptive language can be directly converted into visual content, and that prompt wording — subject, style, and detail — has a major effect on the result. This makes prompt refinement, not technical skill, the key ability needed to use such tools effectively and responsibly.
 
+## AIM
+To understand how text-to-image generative AI works and to generate and refine sample images from text prompts using a generative AI image-generation tool.
+
+# WHAT IS TEXT-TO-IMAGE GENERATIVE AI?
+
+Text-to-image generative AI is a technology that converts a written description, known as a prompt, into an image. The AI model interprets the words in the prompt and generates an image based on the described subject, style, colour, lighting, environment, and other details.
+
+The quality and appearance of the generated image depend greatly on how clearly and specifically the prompt is written. By modifying the prompt, users can experiment with different visual styles and obtain different results.
+
+# TOOLS REQUIRED
+Web browser such as Google Chrome or Microsoft Edge
+A text-to-image generative AI tool such as:
+Microsoft Designer / Bing Image Creator
+Adobe Firefly
+Canva AI
+DALL·E through a supported interface
+Microsoft, Google, or other required account for signing in
+Computer or smartphone with internet access
+
+# PROCEDURE
+Step 1: Understanding Text-to-Image Generative AI
+
+First, understand the basic concept of text-to-image generation. The AI system receives a textual prompt and generates an image according to the information contained in the prompt.
+
+The prompt may describe:
+
+Subject
+Environment
+Art style
+Lighting
+Colour
+Camera angle
+Mood
+Image quality
+Step 2: Choosing an Image-Generation Tool
+Open a web browser.
+Open a suitable text-to-image AI tool.
+Sign in if required.
+Open the image-generation feature.
+Prepare a text prompt for generating the image.
+Step 3: Writing a Simple First Prompt
+
+Enter a short and clear prompt into the image-generation tool.
+
+Sample Prompt:
+
+"A futuristic classroom with students using AI robots, digital art style."
+
+The prompt describes the main subject and the desired visual style.
+
+Step 4: Generating and Reviewing the First Set of Images
+Enter the prompt.
+Click the Generate button.
+Wait for the AI to process the prompt.
+Examine the generated image or image variations.
+Check whether the generated output matches the intended description.
+
+Observe the subject, composition, colours, lighting, and overall appearance.
+
+Step 5: Refining the Prompt for a Better Result
+
+The prompt can be modified to provide additional details.
+
+Refined Prompt:
+
+"A futuristic classroom with diverse students interacting with friendly AI robots, large digital displays, vibrant digital art, warm lighting, wide-angle view, modern technology-filled environment."
+
+The refined prompt provides additional information about the environment, lighting, style, and composition.
+
+Step 6: Comparing Different Style Keywords
+
+Keep the main subject unchanged and modify only the style description.
+
+Examples:
+
+Oil Painting:
+
+"A futuristic classroom with students using AI robots, oil painting style."
+
+Cartoon Style:
+
+"A futuristic classroom with students using AI robots, colourful cartoon style."
+
+Photorealistic:
+
+"A futuristic classroom with students using AI robots, photorealistic style."
+
+This demonstrates how changing style-related keywords can significantly affect the generated image.
+
+Step 7: Saving the Final Image
+Select the generated image that matches the required output.
+Open the image options.
+Select the available Download/Save option.
+Save the image to the computer or mobile device.
+Use the generated image as the output for the laboratory record or presentation.
+Step 8: Noting Ethical Considerations
+
+Generative AI should be used responsibly.
+
+Important considerations include:
+
+Avoid generating or manipulating identifiable people's images without appropriate consent.
+Respect copyright and intellectual-property rights.
+Do not use AI-generated images to mislead or deceive people.
+Follow the terms and usage policies of the selected AI tool.
+Disclose that an image is AI-generated when appropriate.
+Avoid creating harmful, misleading, or inappropriate content.
+
+# SAMPLE PROMPTS
+Prompt 1 – Basic
+
+"A futuristic classroom with students using AI robots, digital art style."
+
+Prompt 2 – Refined
+
+"A futuristic classroom with students interacting with friendly AI robots, large digital screens, modern laboratory equipment, vibrant digital art, warm lighting, wide-angle view."
+
+Prompt 3 – Photorealistic
+
+"A modern futuristic engineering classroom with students working alongside educational AI robots, realistic technology equipment, natural lighting, detailed environment, photorealistic style."
+
+# SAMPLE OUTPUT SCREEN
+
+The output screen should show the selected text-to-image AI tool with the prompt entered and the generated image results displayed.
+
+The generated images can be compared based on:
+
+Image quality
+Prompt accuracy
+Composition
+Colour
+Lighting
+Style
+Level of detail
+
+# OUTPUT
+
+A set of AI-generated images was produced from a written text prompt. The prompt was refined by adding details such as style, lighting, environment, and camera angle. Different style keywords were also tested, and a suitable final image was selected and saved for use in the laboratory record.
+
+# RESULT
+
+Thus, text-to-image generative AI was successfully explored by creating, testing, and refining text prompts, and a final AI-generated image was generated and saved.
